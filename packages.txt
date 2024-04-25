@@ -1,0 +1,10 @@
+conda install -c conda-forge opencv
+conda install pandas
+conda install -c conda-forge keras
+pip install Multi-Template-Matching
+
+update opencv:
+
+pip install opencv-python --user
+pip install opencv-contrib-python
+pip install pysimplegui

@@ -1,0 +1,19 @@
+----- for server installation ----
+# install python version 3.8
+# check version after installation with >python ––version
+sudo apt install python3.8
+
+# check >pip3 --version
+# if not installed, install package manager:
+sudo apt install python3-pip
+
+# install packages with pip
+pip install opencv-python==4.5.0
+pip install numpy==1.18.5
+pip install keras==2.4.3
+pip install matplotlib==3.3.4
+pip install sklearn==0.23.2
+pip install pandas==1.2.3
+
+# if not installed:
+pip install tensorflow==2.3.0
