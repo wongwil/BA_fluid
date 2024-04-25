@@ -7,7 +7,7 @@ Die Experimente der Roche Pharma (Schweiz) AG, die mit Hochgeschwindigkeitskamer
 Wir verwenden ein Convolutional Neural Network (CNN), das auf unser Dataset trainiert wurde. Wir führen Data augmentation und Balancing durch,
 um die Einschränkungen des kleinen Datensatzes auszugleichen. Es werden verschiedene Hyperparameter getestet, um die Leistung des Modells zu verbessern. Unser bestes Modell erreicht einen 96% FBeta-Score für die Erkennung von Flüssigkeitsschwingungen.
 Wir haben festgestellt, dass Anpassungen der Filmbedingungen die Performance beeinträchtigen, wie z.B. durch einer anderen Beleuchtung. Ein grösseres, vielfältigeres Dataset
-kann die Genauigkeit und die Verwendbarkeit des Modells erhöhen.
+kann die Genauigkeit und die Verwendbarkeit des Modells erhöhen. Weitere Informationen sind in unserem [Report](https://github.com/wongwil/BA_fluid/blob/main/report.pdf) zu finden.
 ![image](https://github.com/wongwil/BA_fluid/assets/11984597/8b21006e-d9cd-489f-9f5f-c81c269cc48a)
 
 ## Reproduktion der Experimente
