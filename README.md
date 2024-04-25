@@ -1,5 +1,5 @@
-# Automatisierte Erkennung von Fluidbewegungen mittels KI
-
+# Automatisierte Erkennung von Fluidbewegungen mittels KI (ZHAW School of Engineering)
+Sven Aebersold und William Wong
 
 ## Kurzfassung
 Wir erforschen eine Methode zur Automatisierung der Analyse des Medikamententransports und konzentrieren uns dabei auf die Erkennung von Vibrationsschäden. 
