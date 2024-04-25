@@ -13,7 +13,7 @@ kann die Genauigkeit und die Verwendbarkeit des Modells erhöhen.
 ## Reproduktion der Experimente
 Bitte stellen Sie sicher, dass alle aufgelisteten Packete in [server_installation.txt](https://github.com/wongwil/BA_fluid/blob/main/server_installation.txt) installiert sind. Desweiteren müssen natürlich alle Pfade, die auf die Datasets oder anderen Files zugreifen, angepasst werden.
 
-- [keras_mode.py](https://github.com/wongwil/BA_fluid/blob/main/project/keras_model.py): Training des Models.  Aufgrund der Grösse haben wir unsere Models nicht im Repository, deshalb bitten wir Sie diese selbst trainiert mit dem File zu trainieren.
+- [keras_mode.py](https://github.com/wongwil/BA_fluid/blob/main/project/keras_model.py): Training des Models.  Aufgrund der Grösse haben wir unsere Models nicht im Repository, deshalb bitten wir Sie diese mit diesem File selbst zu trainieren.
 - [mainwindow.py](https://github.com/wongwil/BA_fluid/blob/main/project/mainwindow.py): GUI für die Nutzung des Models.
 
 ![image](https://github.com/wongwil/BA_fluid/assets/11984597/2fe7dbab-f68c-45e0-a34d-a15c89a4d40b)
