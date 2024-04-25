@@ -18,8 +18,8 @@ from pathlib import Path
 from data_augmentation import augment_data
 
 
-MODEL_PATH = 'model_7_to_33_5x5f_32k_64k_128k_128d_256d_gpu_21ep_64bs_full_aug_14small_32wave_12drop.h5'
-VIAL_FILE = '../labeling/1g/labels/vial{}_labels.csv'
+MODEL_PATH = 'model_7_to_33_5x5f_32k_64k_128k_128d_256d_gpu_21ep_64bs_full_aug_14small_32wave_12drop.h5' # the name of your model
+VIAL_FILE = '../dataset/data/labels/vial{}_labels.csv'
 LABELS_TO_USE = {'still', 'wave', 'nearDrops', 'smallDrops', 'drops', 'foam'}
 VIAL_NUMBERS = list({7, 8, 9, 10, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33})
 #VIAL_NUMBERS = list({9, 20, 21, 22, 27, 31, 33})
